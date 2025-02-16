@@ -1,4 +1,5 @@
-#SocialMediaManagementSystem
+SocialMediaManagementSystem
+
 A SMMS is a web-based application that helps users manage multiple social media accounts from a single dashboard. It allows scheduling posts, tracking analytics, automating responses, and handling engagement efficiently.
 
 Features
